@@ -103,6 +103,5 @@ handleClick(e) {
     }
   }
 }
-//CHECK THE OBOVE ) } MAKE SURE NUMB OF THEM
 
 export default App;
